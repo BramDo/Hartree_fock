@@ -7,4 +7,3 @@ Computational chemistry allow properties of molecules to be determined with incr
 One of the classic texts in computational chemistry is Modern Quantum Chemistry by Szabo and Ostlund. The book
 includes a simple calculation of the molecule HeH + which has the same electronic con􀂛guration as the hydrogen molecule but due to the +2 charge on the helium nucleus it is not symmetrical and must be calculated iteratively by converging on a consistent set of parameters which is why the method is often called self consistent feld theory (SCF).
 
-$$ \phi\left({r}\right)  $$
